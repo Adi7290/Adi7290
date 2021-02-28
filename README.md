@@ -4,6 +4,8 @@
 **Adi7290/Adi7290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<a href a="https://twitter.com/tundwal_aditya/with_replies">Twitter</a>
+
 <ol>
   <li>-🐍 I am a Entry Level Python Developer</li>
   <li>-😄I have basic Knowledge about HTML and CSS{Tbh I'm not into that much front-end development stuff😅}</li>
