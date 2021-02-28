@@ -1,4 +1,4 @@
-###नमस्ते (Namaste)🙏🏻, I'm Aditya Tundwal 
+<h1>नमस्ते (Namaste)🙏🏻, I'm Aditya Tundwal </h1>
 
 <!--
 **Adi7290/Adi7290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
