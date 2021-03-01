@@ -11,7 +11,7 @@
   <li>- 🐬Basic Knowledge of SQL and PostgreSQL</li>
   <li>- 🌶I am currently learning about {flask:framework}</li>
 </ol>
-<p><b>- Last but not least if you want to say hi, or any tip or any type of knowledge I would be glad to interact with you and learn more</b></p>
+<p><b>- Last but not least if you want to say hi, or any tip or any type of knowledge you want to share I would be glad to interact with you and learn more</b></p>
 
 
 
