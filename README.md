@@ -18,3 +18,7 @@
 
 
 P.s: **I love connecting with different people so  I'll be happy to meet you more and interact with you! 😊**
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=adi7290&layout=compact)
