@@ -23,14 +23,15 @@ I am also a open-source lover.I learned a lot from the open-source community, an
 <div style="display:table">
     <div style="display:table-cell; vertical-align:top;">
 <ul>
-    <div style="float:right;"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="none" width="360"></div></div>
     <li><b>__I am a Entry Level</b> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <b>Developer__</b></li>
     <li><b>__Having Basic Knowledge about<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> and <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>__</b></li>
     <li><b>__Currently i am learning about <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>__</b></li>
     <li><b>__In Databases i know <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> and <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>__</b></li>
 </ul>
 </div>
-
+<div style="float:right;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="none" width="360">
+</div>
 
 <h1><b>My Stats</b></h1>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=light&show_icons=true&count_private=true&title_color=##0015a1)
