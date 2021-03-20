@@ -1,4 +1,4 @@
-# __नमस्ते__,  <img alt ="Namaste" src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width=50/>
+# __नमस्ते__  <img alt ="Namaste" src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width=50/>
 <!--
 **Adi7290/Adi7290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,6 +20,8 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=radical&show_icons=true&count_private=true)<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eatsleepcoderepeat" width=195>
- 
- <img src="https://i.makeagif.com/media/8-21-2015/I51s6a.gif" alt="monkeywithlaptop" width=260 height=210>![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=adi7290&theme=radical&ayout=compact width="300" height="210" )
+![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=radical&show_icons=true&count_private=true) <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eatsleepcoderepeat" width=195>
+<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="working" height="150">![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=adi7290&theme=radical&layout=default&card_width=550)
+
+
+
