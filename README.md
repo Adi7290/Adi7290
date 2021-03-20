@@ -20,7 +20,7 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=radical&show_icons=true&count_private=true) <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eatsleepcoderepeat" width=195>
+![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=radical&show_icons=true&count_private=true) <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eatsleepcoderepeat" width=195><br>
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="working" height="150">![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=adi7290&theme=radical&layout=default&card_width=550)
 
 
