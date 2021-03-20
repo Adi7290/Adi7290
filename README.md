@@ -12,16 +12,16 @@
 
 ### **_Also I am a Open-Source lover. I've learned a lot from the Open-Source community, And I love how it encourages developers to collaborate on a idea and make it happen._**
 
- -  **_I am an Entry Level  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  Developer._**
+|-  -  **_I am an Entry Level  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  Developer._**
 - **_Having Basic Knowledge about <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> and <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>._**
 - **_Currently The Frameworks  that I've been working on is <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> ._**
-- **_In Databases i know <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> and <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> ._**
+- **_In Databases i know <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> and <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> ._** -|-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="none" width="360"> -|
 
 # **_My Stats Find them Not Impressive I know 😂_**
 
-|  |  |
-|-![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=light&show_icons=true&count_private=true&title_color=##0015a1) -|- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="none" width="360">
-</div> -|
-|-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=adi7290&layout=compact)  -|
 
 
+|- ![Github stats](https://github-readme-stats.vercel.app/api?username=adi7290&theme=radical&show_icons=true&count_private=true) -|- <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eatsleepcoderepeat" width=300> -|
+
+|- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=adi7290&theme=radical&ayout=compact)-|- 
+![cute monkey wants to use the laptop](https://i.makeagif.com/media/8-21-2015/I51s6a.gif)-|
