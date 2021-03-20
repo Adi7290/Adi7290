@@ -15,7 +15,7 @@
 |-  -  **_I am an Entry Level  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  Developer._**
 - **_Having Basic Knowledge about <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> and <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>._**
 - **_Currently The Frameworks  that I've been working on is <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> ._**
-- **_In Databases i know <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> and <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> ._** -|-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="none" width="360"> -|
+- **_In Databases i know <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> and <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> ._** -|-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="none" width="200"> -|
 
 # **_My Stats Find them Not Impressive I know 😂_**
 
